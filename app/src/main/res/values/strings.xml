@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AdMobDemo</string>
+    <string name="ad_mob_app_id">ca-app-pub-3817917304409576~9998076466</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3817917304409576/6210024639</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3817917304409576/8190579896</string>
+    <string name="test_ad_mob_app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="test_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="test_interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="test_interstitial_video">ca-app-pub-3940256099942544/8691691433</string>
+    <string name="test_rewarded_video">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="test_native_advanced">ca-app-pub-3940256099942544/2247696110</string>
+    <string name="test_native_advanced_video">ca-app-pub-3940256099942544/1044960115</string>
+    <string name="show_ad">Show Ad</string>
+    <string name="show_fragment">Show Fragment</string>
+    <string name="show_rewarded_video">Show Rewarded Video</string>
+</resources>
